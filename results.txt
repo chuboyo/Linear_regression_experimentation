@@ -3,3 +3,7 @@ The model performs better when predicting final score(g3) using all the paramete
 scores(g1 and g2)
 When predicting all the scores(g1 g2 g3) with the base and categorical parameters in the dataset, the model 
 is not as accurate.
+
+The error for the model that predicts only the final score is about 2.04
+
+The error for the model that predicts all three scores is about 3.6
