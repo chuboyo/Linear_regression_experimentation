@@ -1,0 +1,5 @@
+These are the observations from training the model:
+The model performs better when predicting final score(g3) using all the parameters including the previous 
+scores(g1 and g2)
+When predicting all the scores(g1 g2 g3) with the base and categorical parameters in the dataset, the model 
+is not as accurate.
